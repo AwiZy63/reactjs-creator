@@ -1,11 +1,11 @@
 # Création d'un projet ReactJS prêt à l'emploi
 
-## Utilisation
-
-### Utilisation curl
-
-`Tutoriel en cours de rédaction`
-
 ### Utilisation de Git + création d'un raccourci
 
-`Tutoriel en cours de rédaction`
+`git clone https://github.com/AwiZy63/reactjs-creator`
+`cd ./reactjs-creator`
+`sudo cp ./react-create.sh /usr/local/bin/create-reactjs`
+A présent, pour créer un projet ReactJS, vous pouvez executer la commande :
+`create-reactjs <nom_du_projet>`
+
+Enjoy!
